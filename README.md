@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Page Title</title>
-  <style>
-    body {background-color: powderblue;}
-    h1 {color: yellow;}
-    p {color: black;}
+
   </style>
 </head>  
 <body>
